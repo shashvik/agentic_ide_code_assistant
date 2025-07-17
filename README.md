@@ -1,4 +1,5 @@
 # Vyasa IDE: AI-Powered Secure Development Agent
+<img width="1889" height="556" alt="image" src="https://github.com/user-attachments/assets/f5224c46-56ac-402a-9145-87a8aae91f59" />
 
 CodeChat IDE is a web-based integrated development environment (IDE) that integrates a powerful AI coding assistant to streamline your development workflow. It features a real-time file explorer, a code editor with syntax highlighting, and an interactive chat panel to generate, refactor, and understand code with the help of AI.
 
