@@ -136,6 +136,8 @@ digital-ide-buddy/
 ├── vite.config.ts
 └── ...
 ```
+<img width="2511" height="1149" alt="image" src="https://github.com/user-attachments/assets/ff9f9fa7-6e02-40c5-b3de-e7a3547f38ee" />
+<img width="2511" height="1150" alt="image" src="https://github.com/user-attachments/assets/3861bcf9-22ad-43ca-8538-0b770a29f5de" />
 
 <img width="2539" height="1089" alt="image" src="https://github.com/user-attachments/assets/2774738b-402b-428d-aa00-99946d49a2a2" />
 <img width="2560" height="1317" alt="image" src="https://github.com/user-attachments/assets/abf841f1-a276-4b3b-a32d-c16edad00cca" />
